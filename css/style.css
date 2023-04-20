@@ -211,7 +211,7 @@ html, body {
 }
 @media (max-width: 1050px) {
   .content-container {
-    padding: 0px 5px 5px 5px;
+    padding: 100px 5px 5px 5px;
   }
   .demolition {
     flex-direction: column;
